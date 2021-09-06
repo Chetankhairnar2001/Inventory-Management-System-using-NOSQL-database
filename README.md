@@ -20,6 +20,6 @@ Owner can add more products to the records file, while costumers can consume the
 * Rating
 * Time of Purchase
 
-For further information
-Linkedin- https://www.linkedin.com/in/chetan-khairnar/
+For further information <br>
+Linkedin- https://www.linkedin.com/in/chetan-khairnar/ <br>
 Website- https://chetankhairnar-portfolio.netlify.app/
